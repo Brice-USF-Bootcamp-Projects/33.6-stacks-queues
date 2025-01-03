@@ -1,15 +1,14 @@
 {
-  "name": "dsa-stacks-queues",
+  "name": "33.6_stacks_queues",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Exercise on stacks and queues",
+  "main": "queue.js",
   "scripts": {
     "test": "jest"
   },
-  "keywords": [],
-  "author": "",
+  "author": "brice nelson",
   "license": "ISC",
-  "devDependencies": {
-    "jest": "^24.1.0"
+  "dependencies": {
+    "jest": "^29.7.0"
   }
 }
